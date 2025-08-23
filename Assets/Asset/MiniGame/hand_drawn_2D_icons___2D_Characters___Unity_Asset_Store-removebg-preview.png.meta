@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 1652b4a4c73059446841c5663e680716
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4932187074132301882
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_0
+  - first:
+      213: -3842973157356674198
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_1
+  - first:
+      213: 1171985434442551748
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_2
+  - first:
+      213: -8540598670459362555
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_3
+  - first:
+      213: -4223086551761130969
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_4
+  - first:
+      213: -5115922447476642347
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_5
+  - first:
+      213: -1817446691049063441
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_6
+  - first:
+      213: 1661967387677001309
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_7
+  - first:
+      213: 1794253452835788158
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_8
+  - first:
+      213: -5137873780057911675
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_9
+  - first:
+      213: -1081205389887408922
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_10
+  - first:
+      213: 8198918459007510599
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_11
+  - first:
+      213: 5834834736495519025
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_12
+  - first:
+      213: 7240441251944504006
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_13
+  - first:
+      213: -6082741975772466584
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_14
+  - first:
+      213: -3365909043808986087
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_15
+  - first:
+      213: -8998738143509351341
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_16
+  - first:
+      213: -8351090748512476000
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_17
+  - first:
+      213: -5123366229987252696
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_18
+  - first:
+      213: -1172411894503194971
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_19
+  - first:
+      213: -4630024582928275302
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_20
+  - first:
+      213: -1265395685234561428
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_21
+  - first:
+      213: 7625076184137254079
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_22
+  - first:
+      213: -2373974167735200069
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_23
+  - first:
+      213: -8737054592196108650
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_24
+  - first:
+      213: -2823324553799106993
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_25
+  - first:
+      213: 8240723382873035583
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_26
+  - first:
+      213: 2414377436980990474
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_27
+  - first:
+      213: 5002499558169117080
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_28
+  - first:
+      213: -5748754552580570204
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_29
+  - first:
+      213: -5721049941702519791
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_30
+  - first:
+      213: -5025491069023711379
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_31
+  - first:
+      213: -3572561835194188431
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_32
+  - first:
+      213: 6761412512824621273
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_33
+  - first:
+      213: 2104512883829915227
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_34
+  - first:
+      213: -2492705396616077908
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_35
+  - first:
+      213: -8481824170173034032
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_36
+  - first:
+      213: 8858979969397586716
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_37
+  - first:
+      213: 3424557091539419050
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_38
+  - first:
+      213: -6902902576697492368
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_39
+  - first:
+      213: -8583545085197238749
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_40
+  - first:
+      213: -5058066777112704070
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_41
+  - first:
+      213: -9055084188378893827
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_42
+  - first:
+      213: 3487656286070464750
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_43
+  - first:
+      213: -2367077396793139445
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_44
+  - first:
+      213: -5738945914225695927
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_45
+  - first:
+      213: -4354865125726467568
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_46
+  - first:
+      213: 7737540559575524933
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_47
+  - first:
+      213: -8019310370197733887
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_48
+  - first:
+      213: 690914264755928857
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_49
+  - first:
+      213: 1373676987873812305
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_50
+  - first:
+      213: -449022176425696824
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_51
+  - first:
+      213: 2607452295354881602
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_52
+  - first:
+      213: 4513318125965199223
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_53
+  - first:
+      213: -1152245822096996264
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_54
+  - first:
+      213: 7714308148555122476
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_55
+  - first:
+      213: -1048734460851154712
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_56
+  - first:
+      213: -6226263181763481951
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_57
+  - first:
+      213: 1049559289222871891
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_58
+  - first:
+      213: 6455651424947047189
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_59
+  - first:
+      213: 3237551018272101486
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_60
+  - first:
+      213: -2499825512573814588
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_61
+  - first:
+      213: -1580062004923951897
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_62
+  - first:
+      213: -6822655037502395663
+    second: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38dd671306a27440800000000000000
+      internalID: 4932187074132301882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 357
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63e46a36440baac0800000000000000
+      internalID: -3842973157356674198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 357
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c151ed0b8ab34010800000000000000
+      internalID: 1171985434442551748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 357
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503a81e52c2b97980800000000000000
+      internalID: -8540598670459362555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 357
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a6c82f7259465c0800000000000000
+      internalID: -4223086551761130969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 357
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd25bba3a79009b0800000000000000
+      internalID: -5115922447476642347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 357
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febbfcd1dd127c6e0800000000000000
+      internalID: -1817446691049063441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 357
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5685ca988e701710800000000000000
+      internalID: 1661967387677001309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e759b4d420876e810800000000000000
+      internalID: 1794253452835788158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 306
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ecad6c40b92b8b0800000000000000
+      internalID: -5137873780057911675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 306
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4f5862d69cef0f0800000000000000
+      internalID: -1081205389887408922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 306
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748298316e868c170800000000000000
+      internalID: 8198918459007510599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 306
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135ecef474f79f050800000000000000
+      internalID: 5834834736495519025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 306
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca9c3705f63b7460800000000000000
+      internalID: 7240441251944504006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 306
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86279b99662c59ba0800000000000000
+      internalID: -6082741975772466584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 306
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c9d79de83e941d0800000000000000
+      internalID: -3365909043808986087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354fd59f55f0e1380800000000000000
+      internalID: -8998738143509351341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 255
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4ecdfc537fa1c80800000000000000
+      internalID: -8351090748512476000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 255
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826a06ffe8526e8b0800000000000000
+      internalID: -5123366229987252696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 255
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeb1b9f791cabfe0800000000000000
+      internalID: -1172411894503194971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 255
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98eb393c29debfb0800000000000000
+      internalID: -4630024582928275302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 255
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e28412459607ee0800000000000000
+      internalID: -1265395685234561428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 255
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4caccd366b1d960800000000000000
+      internalID: 7625076184137254079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 255
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb690328213fd0fd0800000000000000
+      internalID: -2373974167735200069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e94f8a32fbfb680800000000000000
+      internalID: -8737054592196108650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 204
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e7a25e64981d8d0800000000000000
+      internalID: -2823324553799106993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 204
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f331768614eec5270800000000000000
+      internalID: 8240723382873035583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 204
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0258fcac77918120800000000000000
+      internalID: 2414377436980990474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 204
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89108b108d27c6540800000000000000
+      internalID: 5002499558169117080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 204
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3868051325830b0800000000000000
+      internalID: -5748754552580570204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 204
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1145d82b36fba90b0800000000000000
+      internalID: -5721049941702519791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 204
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f81f8bf7ed14ab0800000000000000
+      internalID: -5025491069023711379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17df12b60f5bb6ec0800000000000000
+      internalID: -3572561835194188431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 153
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8face5bdc55dd50800000000000000
+      internalID: 6761412512824621273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 153
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e3ae1515bb43d10800000000000000
+      internalID: 2104512883829915227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 153
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caddff016a1286dd0800000000000000
+      internalID: -2492705396616077908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 153
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d193891bd18a4a80800000000000000
+      internalID: -8481824170173034032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 153
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b7e34685b61fa70800000000000000
+      internalID: 8858979969397586716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 153
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf704ad788768f20800000000000000
+      internalID: 3424557091539419050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 153
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c31dcfda6f330a0800000000000000
+      internalID: -6902902576697492368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eb44bf83f11e880800000000000000
+      internalID: -8583545085197238749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 102
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb0ef3a0132ec9b0800000000000000
+      internalID: -5058066777112704070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 102
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df17b6418e0e55280800000000000000
+      internalID: -9055084188378893827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 102
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee063ede9e4a66030800000000000000
+      internalID: 3487656286070464750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 102
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fd94026a3762fd0800000000000000
+      internalID: -2367077396793139445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 102
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943e565e81b2b50b0800000000000000
+      internalID: -5738945914225695927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 102
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a4650cd396093c0800000000000000
+      internalID: -4354865125726467568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 102
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5462da8c424416b60800000000000000
+      internalID: 7737540559575524933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ef1c8d4bfa5b090800000000000000
+      internalID: -8019310370197733887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 51
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ff609fcde969900800000000000000
+      internalID: 690914264755928857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 51
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fd85241f7401310800000000000000
+      internalID: 1373676987873812305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 51
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1afd5a5b0c4c9f0800000000000000
+      internalID: -449022176425696824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 51
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24697693c088f2420800000000000000
+      internalID: 2607452295354881602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 51
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777cc784ce682ae30800000000000000
+      internalID: 4513318125965199223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 51
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8580bf797866200f0800000000000000
+      internalID: -1152245822096996264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 51
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c278782936abe0b60800000000000000
+      internalID: 7714308148555122476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0914570952271f0800000000000000
+      internalID: -1048734460851154712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aee4e4df9ed799a0800000000000000
+      internalID: -6226263181763481951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b37dcdc98c09e00800000000000000
+      internalID: 1049559289222871891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b86b974c4179950800000000000000
+      internalID: 6455651424947047189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6410527f771eec20800000000000000
+      internalID: 3237551018272101486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c83492e0f5de4dd0800000000000000
+      internalID: -2499825512573814588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e49a616afd721ae0800000000000000
+      internalID: -1580062004923951897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fae3a0346f0151a0800000000000000
+      internalID: -6822655037502395663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e75772f23035a2a4398ff49213b7c38d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_0: 4932187074132301882
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_1: -3842973157356674198
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_10: -1081205389887408922
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_11: 8198918459007510599
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_12: 5834834736495519025
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_13: 7240441251944504006
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_14: -6082741975772466584
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_15: -3365909043808986087
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_16: -8998738143509351341
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_17: -8351090748512476000
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_18: -5123366229987252696
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_19: -1172411894503194971
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_2: 1171985434442551748
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_20: -4630024582928275302
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_21: -1265395685234561428
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_22: 7625076184137254079
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_23: -2373974167735200069
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_24: -8737054592196108650
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_25: -2823324553799106993
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_26: 8240723382873035583
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_27: 2414377436980990474
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_28: 5002499558169117080
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_29: -5748754552580570204
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_3: -8540598670459362555
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_30: -5721049941702519791
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_31: -5025491069023711379
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_32: -3572561835194188431
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_33: 6761412512824621273
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_34: 2104512883829915227
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_35: -2492705396616077908
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_36: -8481824170173034032
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_37: 8858979969397586716
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_38: 3424557091539419050
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_39: -6902902576697492368
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_4: -4223086551761130969
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_40: -8583545085197238749
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_41: -5058066777112704070
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_42: -9055084188378893827
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_43: 3487656286070464750
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_44: -2367077396793139445
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_45: -5738945914225695927
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_46: -4354865125726467568
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_47: 7737540559575524933
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_48: -8019310370197733887
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_49: 690914264755928857
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_5: -5115922447476642347
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_50: 1373676987873812305
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_51: -449022176425696824
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_52: 2607452295354881602
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_53: 4513318125965199223
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_54: -1152245822096996264
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_55: 7714308148555122476
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_56: -1048734460851154712
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_57: -6226263181763481951
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_58: 1049559289222871891
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_59: 6455651424947047189
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_6: -1817446691049063441
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_60: 3237551018272101486
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_61: -2499825512573814588
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_62: -1580062004923951897
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_63: -6822655037502395663
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_7: 1661967387677001309
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_8: 1794253452835788158
+      hand_drawn_2D_icons___2D_Characters___Unity_Asset_Store-removebg-preview_9: -5137873780057911675
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
